@@ -1,0 +1,20 @@
+**linha de comando
+comando a ser executado
+Local ncount
+Local nNum =2
+
+linha de comentario 
+//comentario
+/*comentario*/
+
+***linhas mistas 
+linha de comando com linha de comentario 
+
+Local cNome:="lucas"//nome usuario
+
+***ponto e virgula
+
+quebra a linha de codigo
+
+if !Empty(cNome).AND.;
+!Empty(cNome)
